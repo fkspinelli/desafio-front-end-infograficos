@@ -1,3 +1,12 @@
+#Instruções para rodar o projeto
+* Abrir o index.html em um servidor devi às chamadas ajax
+
+
+
+
+
+
+
 # Teste - Front-End
 O desafio é realizar o desenvolvimento front-end da homepage de um jornal fictício. O desenvolvimento deve seguir fielmente o layout disponibilizado nos arquivos abaixo (espaçamento, cores, tipografia e etc). Você não deve utilizar nenhum framework CSS (Bootstrap, Foundation e etc) neste desafio.
 
